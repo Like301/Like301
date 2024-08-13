@@ -1,7 +1,5 @@
 name: Update badges
-
 on: [workflow_dispatch]
-
 jobs:
   update-readme:
     name: Update Readme with badges
