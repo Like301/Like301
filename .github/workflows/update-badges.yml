@@ -8,4 +8,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: guilherme-souza.111b233d
+          CREDLY_USER: $usr
