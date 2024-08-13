@@ -1,18 +1,20 @@
-# Bem vindo! 👋🏻
-<div>
- <a href = "https://www.linkedin.com/in/guilherme-albuquerque-793995228/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-</div>
-<br><br>
-Olá, meu nome é Guilherme e atualmente trabalho como desenvolvedor e analista de infraestrutura, meu objetivo profissional é ter domínio sobre a area de desenvolvimento, segurança e operações, também conhecido como DevSecOps.
-Carrego experiência de desenvolvimento com flutter, html5, php, C#, javascript e MySql.
+# Hey! 👋🏻  ![CodeWars](https://www.codewars.com/users/Like301/badges/small)
+Tudo bem? Meu nome é Guilherme. Atualmente trabalho como Dev, mas meu real objetivo é me tornar um DevSecOps. 
+Parar de estudar não é uma opção. <br><br>
+![LinkedIn](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) 
 <br>
-<div>
+## Techs
+### Stack atual
+![JavaScript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=Javascript)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker)
+![Prometheus](https://img.shields.io/badge/Prometheus-white?style=for-the-badge&logo=Prometheus)
+![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=%23FF6C37)
 <br><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40">&nbsp;
-</div>
+### Estudando
+![Go](https://img.shields.io/badge/Go-%23DDDDDD?style=for-the-badge&logo=Go)
+
+## Certs
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
