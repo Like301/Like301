@@ -17,4 +17,5 @@ Parar de estudar não é uma opção. <br><br>
 
 ## Certs
 <!--START_SECTION:badges-->
+[![Certified LabVIEW Developer](https://images.credly.com/size/110x110/images/2edb5b1a-9414-44e1-8519-c774fc6dd079/36015_Certificate_Badges_FINAL__1__NI_Instructor_v5.png)](http://www.credly.com/badges/0f804b53-b496-49a8-91ba-ed00a7ab4295 "Certified LabVIEW Developer")
 <!--END_SECTION:badges-->
